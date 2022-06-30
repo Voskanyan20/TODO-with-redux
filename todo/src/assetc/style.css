@@ -1,0 +1,24 @@
+.span{
+    padding-right: 10px;
+    font-family: cursive;
+}
+.done{
+    width: 50px;
+    height: 25px;
+    background-color: yellow;
+    border: 1px solid silver;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-right: 5px;
+}
+.del{
+    width: 50px;
+    height: 25px;
+    background-color: yellow;
+    border: 1px solid silver;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.li{
+    margin-bottom: 5px;
+}
